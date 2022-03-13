@@ -1,0 +1,12 @@
+D:\Video\C#\Programing C Sharp\Part 45. Reflection\bin\Debug\Part_45.Reflection.exe.config
+D:\Video\C#\Programing C Sharp\Part 45. Reflection\bin\Debug\Part_45.Reflection.exe
+D:\Video\C#\Programing C Sharp\Part 45. Reflection\bin\Debug\Part_45.Reflection.pdb
+D:\Video\C#\Programing C Sharp\Part 45. Reflection\obj\Debug\Part_45.Reflection.exe
+D:\Video\C#\Programing C Sharp\Part 45. Reflection\obj\Debug\Part_45.Reflection.pdb
+D:\Video\C#\Programing C Sharp\Part 45. Reflection\obj\Debug\Part 45. Reflection.csprojResolveAssemblyReference.cache
+E:\Video\C#\Programing C Sharp\Part 45. Reflection\bin\Debug\Part_45.Reflection.exe.config
+E:\Video\C#\Programing C Sharp\Part 45. Reflection\bin\Debug\Part_45.Reflection.exe
+E:\Video\C#\Programing C Sharp\Part 45. Reflection\bin\Debug\Part_45.Reflection.pdb
+E:\Video\C#\Programing C Sharp\Part 45. Reflection\obj\Debug\Part 45. Reflection.csprojResolveAssemblyReference.cache
+E:\Video\C#\Programing C Sharp\Part 45. Reflection\obj\Debug\Part_45.Reflection.exe
+E:\Video\C#\Programing C Sharp\Part 45. Reflection\obj\Debug\Part_45.Reflection.pdb

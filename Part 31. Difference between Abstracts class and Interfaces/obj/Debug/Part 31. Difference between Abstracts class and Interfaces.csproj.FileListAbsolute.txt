@@ -1,0 +1,10 @@
+D:\Video\C#\Programing C Sharp\Part 31. Difference between Abstracts class and Interfaces\bin\Debug\Part_31.Difference_between_Abstracts_class_and_Interfaces.exe.config
+D:\Video\C#\Programing C Sharp\Part 31. Difference between Abstracts class and Interfaces\bin\Debug\Part_31.Difference_between_Abstracts_class_and_Interfaces.exe
+D:\Video\C#\Programing C Sharp\Part 31. Difference between Abstracts class and Interfaces\bin\Debug\Part_31.Difference_between_Abstracts_class_and_Interfaces.pdb
+D:\Video\C#\Programing C Sharp\Part 31. Difference between Abstracts class and Interfaces\obj\Debug\Part_31.Difference_between_Abstracts_class_and_Interfaces.exe
+D:\Video\C#\Programing C Sharp\Part 31. Difference between Abstracts class and Interfaces\obj\Debug\Part_31.Difference_between_Abstracts_class_and_Interfaces.pdb
+E:\Video\C#\Programing C Sharp\Part 31. Difference between Abstracts class and Interfaces\bin\Debug\Part_31.Difference_between_Abstracts_class_and_Interfaces.exe.config
+E:\Video\C#\Programing C Sharp\Part 31. Difference between Abstracts class and Interfaces\bin\Debug\Part_31.Difference_between_Abstracts_class_and_Interfaces.exe
+E:\Video\C#\Programing C Sharp\Part 31. Difference between Abstracts class and Interfaces\bin\Debug\Part_31.Difference_between_Abstracts_class_and_Interfaces.pdb
+E:\Video\C#\Programing C Sharp\Part 31. Difference between Abstracts class and Interfaces\obj\Debug\Part_31.Difference_between_Abstracts_class_and_Interfaces.exe
+E:\Video\C#\Programing C Sharp\Part 31. Difference between Abstracts class and Interfaces\obj\Debug\Part_31.Difference_between_Abstracts_class_and_Interfaces.pdb

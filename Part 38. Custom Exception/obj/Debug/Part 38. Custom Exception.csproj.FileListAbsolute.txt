@@ -1,0 +1,10 @@
+D:\Video\C#\Programing C Sharp\Part 38. Custom Exception\bin\Debug\Part_38.Custom_Exception.exe.config
+D:\Video\C#\Programing C Sharp\Part 38. Custom Exception\bin\Debug\Part_38.Custom_Exception.exe
+D:\Video\C#\Programing C Sharp\Part 38. Custom Exception\bin\Debug\Part_38.Custom_Exception.pdb
+D:\Video\C#\Programing C Sharp\Part 38. Custom Exception\obj\Debug\Part_38.Custom_Exception.exe
+D:\Video\C#\Programing C Sharp\Part 38. Custom Exception\obj\Debug\Part_38.Custom_Exception.pdb
+E:\Video\C#\Programing C Sharp\Part 38. Custom Exception\bin\Debug\Part_38.Custom_Exception.exe.config
+E:\Video\C#\Programing C Sharp\Part 38. Custom Exception\bin\Debug\Part_38.Custom_Exception.exe
+E:\Video\C#\Programing C Sharp\Part 38. Custom Exception\bin\Debug\Part_38.Custom_Exception.pdb
+E:\Video\C#\Programing C Sharp\Part 38. Custom Exception\obj\Debug\Part_38.Custom_Exception.exe
+E:\Video\C#\Programing C Sharp\Part 38. Custom Exception\obj\Debug\Part_38.Custom_Exception.pdb

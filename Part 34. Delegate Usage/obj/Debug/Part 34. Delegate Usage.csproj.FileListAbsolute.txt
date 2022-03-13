@@ -1,0 +1,10 @@
+D:\Video\C#\Programing C Sharp\Part 34. Delegate Usage\bin\Debug\Part_34.Delegate_Usage.exe.config
+D:\Video\C#\Programing C Sharp\Part 34. Delegate Usage\bin\Debug\Part_34.Delegate_Usage.exe
+D:\Video\C#\Programing C Sharp\Part 34. Delegate Usage\bin\Debug\Part_34.Delegate_Usage.pdb
+D:\Video\C#\Programing C Sharp\Part 34. Delegate Usage\obj\Debug\Part_34.Delegate_Usage.exe
+D:\Video\C#\Programing C Sharp\Part 34. Delegate Usage\obj\Debug\Part_34.Delegate_Usage.pdb
+E:\Video\C#\Programing C Sharp\Part 34. Delegate Usage\bin\Debug\Part_34.Delegate_Usage.exe.config
+E:\Video\C#\Programing C Sharp\Part 34. Delegate Usage\bin\Debug\Part_34.Delegate_Usage.exe
+E:\Video\C#\Programing C Sharp\Part 34. Delegate Usage\bin\Debug\Part_34.Delegate_Usage.pdb
+E:\Video\C#\Programing C Sharp\Part 34. Delegate Usage\obj\Debug\Part_34.Delegate_Usage.exe
+E:\Video\C#\Programing C Sharp\Part 34. Delegate Usage\obj\Debug\Part_34.Delegate_Usage.pdb

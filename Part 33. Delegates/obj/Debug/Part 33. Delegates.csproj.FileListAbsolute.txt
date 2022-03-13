@@ -1,0 +1,10 @@
+D:\Video\C#\Programing C Sharp\Part 33. Delegates\bin\Debug\Part_33.Delegates.exe.config
+D:\Video\C#\Programing C Sharp\Part 33. Delegates\bin\Debug\Part_33.Delegates.exe
+D:\Video\C#\Programing C Sharp\Part 33. Delegates\bin\Debug\Part_33.Delegates.pdb
+D:\Video\C#\Programing C Sharp\Part 33. Delegates\obj\Debug\Part_33.Delegates.exe
+D:\Video\C#\Programing C Sharp\Part 33. Delegates\obj\Debug\Part_33.Delegates.pdb
+E:\Video\C#\Programing C Sharp\Part 33. Delegates\bin\Debug\Part_33.Delegates.exe.config
+E:\Video\C#\Programing C Sharp\Part 33. Delegates\bin\Debug\Part_33.Delegates.exe
+E:\Video\C#\Programing C Sharp\Part 33. Delegates\bin\Debug\Part_33.Delegates.pdb
+E:\Video\C#\Programing C Sharp\Part 33. Delegates\obj\Debug\Part_33.Delegates.exe
+E:\Video\C#\Programing C Sharp\Part 33. Delegates\obj\Debug\Part_33.Delegates.pdb

@@ -1,0 +1,5 @@
+E:\Video\C#\Programing C Sharp\Anonymous Type\bin\Debug\Anonymous Type.exe.config
+E:\Video\C#\Programing C Sharp\Anonymous Type\bin\Debug\Anonymous Type.exe
+E:\Video\C#\Programing C Sharp\Anonymous Type\bin\Debug\Anonymous Type.pdb
+E:\Video\C#\Programing C Sharp\Anonymous Type\obj\Debug\Anonymous Type.exe
+E:\Video\C#\Programing C Sharp\Anonymous Type\obj\Debug\Anonymous Type.pdb

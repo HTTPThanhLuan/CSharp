@@ -1,0 +1,19 @@
+E:\Study\Book\Programming\Programing C Sharp\07.Data Type\bin\Debug\07.Data Type.exe.config
+E:\Study\Book\Programming\Programing C Sharp\07.Data Type\bin\Debug\07.Data Type.exe
+E:\Study\Book\Programming\Programing C Sharp\07.Data Type\bin\Debug\07.Data Type.pdb
+E:\Study\Book\Programming\Programing C Sharp\07.Data Type\obj\Debug\Part 07.Data Type.csprojResolveAssemblyReference.cache
+E:\Study\Book\Programming\Programing C Sharp\07.Data Type\obj\Debug\07.Data Type.exe
+E:\Study\Book\Programming\Programing C Sharp\07.Data Type\obj\Debug\07.Data Type.pdb
+E:\Study\Book\Programming\C Sharp\Programing C Sharp\07.Data Type\bin\Debug\07.Data Type.exe.config
+E:\Study\Book\Programming\C Sharp\Programing C Sharp\07.Data Type\obj\Debug\07.Data Type.exe
+E:\Study\Book\Programming\C Sharp\Programing C Sharp\07.Data Type\obj\Debug\07.Data Type.pdb
+E:\Study\Book\Programming\C Sharp\Programing C Sharp\07.Data Type\bin\Debug\07.Data Type.exe
+E:\Study\Book\Programming\C Sharp\Programing C Sharp\07.Data Type\bin\Debug\07.Data Type.pdb
+E:\Study\Book\Programming\C Sharp\Programing C Sharp\07.Data Type\obj\Debug\Part 07.Data Type.csprojResolveAssemblyReference.cache
+D:\Study\Programming\C Sharp\Programing C Sharp\07.Data Type\bin\Debug\07.Data Type.exe.config
+D:\Study\Programming\C Sharp\Programing C Sharp\07.Data Type\bin\Debug\07.Data Type.exe
+D:\Study\Programming\C Sharp\Programing C Sharp\07.Data Type\bin\Debug\07.Data Type.pdb
+D:\Study\Programming\C Sharp\Programing C Sharp\07.Data Type\obj\Debug\Part 07.Data Type.csprojAssemblyReference.cache
+D:\Study\Programming\C Sharp\Programing C Sharp\07.Data Type\obj\Debug\Part 07.Data Type.csproj.CoreCompileInputs.cache
+D:\Study\Programming\C Sharp\Programing C Sharp\07.Data Type\obj\Debug\07.Data Type.exe
+D:\Study\Programming\C Sharp\Programing C Sharp\07.Data Type\obj\Debug\07.Data Type.pdb

@@ -1,0 +1,10 @@
+D:\Video\C#\Programing C Sharp\Part 47. Late binding using reflection\bin\Debug\Part_47.Late_binding_using_reflection.exe.config
+D:\Video\C#\Programing C Sharp\Part 47. Late binding using reflection\bin\Debug\Part_47.Late_binding_using_reflection.exe
+D:\Video\C#\Programing C Sharp\Part 47. Late binding using reflection\bin\Debug\Part_47.Late_binding_using_reflection.pdb
+D:\Video\C#\Programing C Sharp\Part 47. Late binding using reflection\obj\Debug\Part_47.Late_binding_using_reflection.exe
+D:\Video\C#\Programing C Sharp\Part 47. Late binding using reflection\obj\Debug\Part_47.Late_binding_using_reflection.pdb
+E:\Video\C#\Programing C Sharp\Part 47. Late binding using reflection\bin\Debug\Part_47.Late_binding_using_reflection.exe.config
+E:\Video\C#\Programing C Sharp\Part 47. Late binding using reflection\bin\Debug\Part_47.Late_binding_using_reflection.exe
+E:\Video\C#\Programing C Sharp\Part 47. Late binding using reflection\bin\Debug\Part_47.Late_binding_using_reflection.pdb
+E:\Video\C#\Programing C Sharp\Part 47. Late binding using reflection\obj\Debug\Part_47.Late_binding_using_reflection.exe
+E:\Video\C#\Programing C Sharp\Part 47. Late binding using reflection\obj\Debug\Part_47.Late_binding_using_reflection.pdb

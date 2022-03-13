@@ -1,0 +1,10 @@
+D:\Video\C#\Programing C Sharp\Part 43. Access modifiers\bin\Debug\Part_43.Access_modifiers.exe.config
+D:\Video\C#\Programing C Sharp\Part 43. Access modifiers\bin\Debug\Part_43.Access_modifiers.exe
+D:\Video\C#\Programing C Sharp\Part 43. Access modifiers\bin\Debug\Part_43.Access_modifiers.pdb
+D:\Video\C#\Programing C Sharp\Part 43. Access modifiers\obj\Debug\Part_43.Access_modifiers.exe
+D:\Video\C#\Programing C Sharp\Part 43. Access modifiers\obj\Debug\Part_43.Access_modifiers.pdb
+E:\Video\C#\Programing C Sharp\Part 43. Access modifiers\bin\Debug\Part_43.Access_modifiers.exe.config
+E:\Video\C#\Programing C Sharp\Part 43. Access modifiers\bin\Debug\Part_43.Access_modifiers.exe
+E:\Video\C#\Programing C Sharp\Part 43. Access modifiers\bin\Debug\Part_43.Access_modifiers.pdb
+E:\Video\C#\Programing C Sharp\Part 43. Access modifiers\obj\Debug\Part_43.Access_modifiers.exe
+E:\Video\C#\Programing C Sharp\Part 43. Access modifiers\obj\Debug\Part_43.Access_modifiers.pdb

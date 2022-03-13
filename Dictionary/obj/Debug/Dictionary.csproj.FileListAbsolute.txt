@@ -1,0 +1,5 @@
+D:\Video\C#\Programing C Sharp\Dictionary\bin\Debug\Dictionary.exe.config
+D:\Video\C#\Programing C Sharp\Dictionary\bin\Debug\Dictionary.exe
+D:\Video\C#\Programing C Sharp\Dictionary\bin\Debug\Dictionary.pdb
+D:\Video\C#\Programing C Sharp\Dictionary\obj\Debug\Dictionary.exe
+D:\Video\C#\Programing C Sharp\Dictionary\obj\Debug\Dictionary.pdb

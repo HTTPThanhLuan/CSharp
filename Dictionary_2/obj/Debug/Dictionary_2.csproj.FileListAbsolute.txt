@@ -1,0 +1,12 @@
+D:\Video\C#\Programing C Sharp\Dictionary_2\bin\Debug\Dictionary_2.exe.config
+D:\Video\C#\Programing C Sharp\Dictionary_2\bin\Debug\Dictionary_2.exe
+D:\Video\C#\Programing C Sharp\Dictionary_2\bin\Debug\Dictionary_2.pdb
+D:\Video\C#\Programing C Sharp\Dictionary_2\obj\Debug\Dictionary_2.exe
+D:\Video\C#\Programing C Sharp\Dictionary_2\obj\Debug\Dictionary_2.pdb
+D:\Video\C#\Programing C Sharp\Dictionary_2\obj\Debug\Dictionary_2.csprojResolveAssemblyReference.cache
+E:\Video\C#\Programing C Sharp\Dictionary_2\bin\Debug\Dictionary_2.exe.config
+E:\Video\C#\Programing C Sharp\Dictionary_2\bin\Debug\Dictionary_2.exe
+E:\Video\C#\Programing C Sharp\Dictionary_2\bin\Debug\Dictionary_2.pdb
+E:\Video\C#\Programing C Sharp\Dictionary_2\obj\Debug\Dictionary_2.csprojResolveAssemblyReference.cache
+E:\Video\C#\Programing C Sharp\Dictionary_2\obj\Debug\Dictionary_2.exe
+E:\Video\C#\Programing C Sharp\Dictionary_2\obj\Debug\Dictionary_2.pdb

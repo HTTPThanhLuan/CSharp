@@ -1,0 +1,12 @@
+D:\Video\C#\Programing C Sharp\Part 7. Datatypes Conversion\bin\Debug\Part_7.Datatypes_Conversion.exe.config
+D:\Video\C#\Programing C Sharp\Part 7. Datatypes Conversion\bin\Debug\Part_7.Datatypes_Conversion.exe
+D:\Video\C#\Programing C Sharp\Part 7. Datatypes Conversion\bin\Debug\Part_7.Datatypes_Conversion.pdb
+D:\Video\C#\Programing C Sharp\Part 7. Datatypes Conversion\obj\Debug\Part 7. Datatypes Conversion.csprojResolveAssemblyReference.cache
+D:\Video\C#\Programing C Sharp\Part 7. Datatypes Conversion\obj\Debug\Part_7.Datatypes_Conversion.exe
+D:\Video\C#\Programing C Sharp\Part 7. Datatypes Conversion\obj\Debug\Part_7.Datatypes_Conversion.pdb
+E:\Video\C#\Programing C Sharp\Part 7. Datatypes Conversion\bin\Debug\Part_7.Datatypes_Conversion.exe.config
+E:\Video\C#\Programing C Sharp\Part 7. Datatypes Conversion\bin\Debug\Part_7.Datatypes_Conversion.exe
+E:\Video\C#\Programing C Sharp\Part 7. Datatypes Conversion\bin\Debug\Part_7.Datatypes_Conversion.pdb
+E:\Video\C#\Programing C Sharp\Part 7. Datatypes Conversion\obj\Debug\Part 7. Datatypes Conversion.csprojResolveAssemblyReference.cache
+E:\Video\C#\Programing C Sharp\Part 7. Datatypes Conversion\obj\Debug\Part_7.Datatypes_Conversion.exe
+E:\Video\C#\Programing C Sharp\Part 7. Datatypes Conversion\obj\Debug\Part_7.Datatypes_Conversion.pdb

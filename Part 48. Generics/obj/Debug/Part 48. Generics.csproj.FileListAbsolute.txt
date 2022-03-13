@@ -1,0 +1,10 @@
+D:\Video\C#\Programing C Sharp\Part 48. Generics\bin\Debug\Part_48.Generics.exe.config
+D:\Video\C#\Programing C Sharp\Part 48. Generics\bin\Debug\Part_48.Generics.exe
+D:\Video\C#\Programing C Sharp\Part 48. Generics\bin\Debug\Part_48.Generics.pdb
+D:\Video\C#\Programing C Sharp\Part 48. Generics\obj\Debug\Part_48.Generics.exe
+D:\Video\C#\Programing C Sharp\Part 48. Generics\obj\Debug\Part_48.Generics.pdb
+E:\Video\C#\Programing C Sharp\Part 48. Generics\bin\Debug\Part_48.Generics.exe.config
+E:\Video\C#\Programing C Sharp\Part 48. Generics\bin\Debug\Part_48.Generics.exe
+E:\Video\C#\Programing C Sharp\Part 48. Generics\bin\Debug\Part_48.Generics.pdb
+E:\Video\C#\Programing C Sharp\Part 48. Generics\obj\Debug\Part_48.Generics.exe
+E:\Video\C#\Programing C Sharp\Part 48. Generics\obj\Debug\Part_48.Generics.pdb

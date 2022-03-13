@@ -1,0 +1,22 @@
+D:\Video\C#\Programing C Sharp\Part 29. Interfaces\bin\Debug\Part_29.Interfaces.exe.config
+D:\Video\C#\Programing C Sharp\Part 29. Interfaces\bin\Debug\Part_29.Interfaces.exe
+D:\Video\C#\Programing C Sharp\Part 29. Interfaces\bin\Debug\Part_29.Interfaces.pdb
+D:\Video\C#\Programing C Sharp\Part 29. Interfaces\obj\Debug\Part_29.Interfaces.exe
+D:\Video\C#\Programing C Sharp\Part 29. Interfaces\obj\Debug\Part_29.Interfaces.pdb
+D:\Video\C#\Programing C Sharp\Part 29. Interfaces\obj\Debug\Part 28. Interfaces.csprojResolveAssemblyReference.cache
+D:\Video\C#\Programing C Sharp\Part 28. Interfaces\bin\Debug\Part_29.Interfaces.exe.config
+D:\Video\C#\Programing C Sharp\Part 28. Interfaces\bin\Debug\Part_29.Interfaces.exe
+D:\Video\C#\Programing C Sharp\Part 28. Interfaces\bin\Debug\Part_29.Interfaces.pdb
+D:\Video\C#\Programing C Sharp\Part 28. Interfaces\obj\Debug\Part_29.Interfaces.exe
+D:\Video\C#\Programing C Sharp\Part 28. Interfaces\obj\Debug\Part_29.Interfaces.pdb
+E:\Video\C#\Programing C Sharp\Part 28. Interfaces\bin\Debug\Part_29.Interfaces.exe.config
+E:\Video\C#\Programing C Sharp\Part 28. Interfaces\bin\Debug\Part_29.Interfaces.exe
+E:\Video\C#\Programing C Sharp\Part 28. Interfaces\bin\Debug\Part_29.Interfaces.pdb
+E:\Video\C#\Programing C Sharp\Part 28. Interfaces\obj\Debug\Part_29.Interfaces.exe
+E:\Video\C#\Programing C Sharp\Part 28. Interfaces\obj\Debug\Part_29.Interfaces.pdb
+E:\Study\Book\Programming\Programing C Sharp\Part 28. Interfaces\bin\Debug\Part_29.Interfaces.exe.config
+E:\Study\Book\Programming\Programing C Sharp\Part 28. Interfaces\obj\Debug\Part_29.Interfaces.exe
+E:\Study\Book\Programming\Programing C Sharp\Part 28. Interfaces\obj\Debug\Part_29.Interfaces.pdb
+E:\Study\Book\Programming\Programing C Sharp\Part 28. Interfaces\bin\Debug\Part_29.Interfaces.exe
+E:\Study\Book\Programming\Programing C Sharp\Part 28. Interfaces\bin\Debug\Part_29.Interfaces.pdb
+E:\Study\Book\Programming\Programing C Sharp\Part 28. Interfaces\obj\Debug\Part 28. Interfaces.csprojResolveAssemblyReference.cache

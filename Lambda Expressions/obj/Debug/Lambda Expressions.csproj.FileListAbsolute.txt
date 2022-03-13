@@ -1,0 +1,12 @@
+D:\Video\C#\Programing C Sharp\Lambda Expressions\bin\Debug\Lambda Expressions.exe.config
+D:\Video\C#\Programing C Sharp\Lambda Expressions\bin\Debug\Lambda Expressions.exe
+D:\Video\C#\Programing C Sharp\Lambda Expressions\bin\Debug\Lambda Expressions.pdb
+D:\Video\C#\Programing C Sharp\Lambda Expressions\obj\Debug\Lambda Expressions.csprojResolveAssemblyReference.cache
+D:\Video\C#\Programing C Sharp\Lambda Expressions\obj\Debug\Lambda Expressions.exe
+D:\Video\C#\Programing C Sharp\Lambda Expressions\obj\Debug\Lambda Expressions.pdb
+E:\Video\C#\Programing C Sharp\Lambda Expressions\bin\Debug\Lambda Expressions.exe.config
+E:\Video\C#\Programing C Sharp\Lambda Expressions\bin\Debug\Lambda Expressions.exe
+E:\Video\C#\Programing C Sharp\Lambda Expressions\bin\Debug\Lambda Expressions.pdb
+E:\Video\C#\Programing C Sharp\Lambda Expressions\obj\Debug\Lambda Expressions.csprojResolveAssemblyReference.cache
+E:\Video\C#\Programing C Sharp\Lambda Expressions\obj\Debug\Lambda Expressions.exe
+E:\Video\C#\Programing C Sharp\Lambda Expressions\obj\Debug\Lambda Expressions.pdb

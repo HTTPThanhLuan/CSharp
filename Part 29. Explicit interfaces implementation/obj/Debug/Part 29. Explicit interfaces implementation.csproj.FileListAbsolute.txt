@@ -1,0 +1,16 @@
+D:\Video\C#\Programing C Sharp\Explicit interfaces implementation\bin\Debug\Explicit interfaces implementation.exe.config
+D:\Video\C#\Programing C Sharp\Explicit interfaces implementation\bin\Debug\Explicit interfaces implementation.exe
+D:\Video\C#\Programing C Sharp\Explicit interfaces implementation\bin\Debug\Explicit interfaces implementation.pdb
+D:\Video\C#\Programing C Sharp\Explicit interfaces implementation\obj\Debug\Explicit interfaces implementation.exe
+D:\Video\C#\Programing C Sharp\Explicit interfaces implementation\obj\Debug\Explicit interfaces implementation.pdb
+D:\Video\C#\Programing C Sharp\Explicit interfaces implementation\obj\Debug\Part 29. Explicit interfaces implementation.csprojResolveAssemblyReference.cache
+D:\Video\C#\Programing C Sharp\Part 29. Explicit interfaces implementation\bin\Debug\Explicit interfaces implementation.exe.config
+D:\Video\C#\Programing C Sharp\Part 29. Explicit interfaces implementation\bin\Debug\Explicit interfaces implementation.exe
+D:\Video\C#\Programing C Sharp\Part 29. Explicit interfaces implementation\bin\Debug\Explicit interfaces implementation.pdb
+D:\Video\C#\Programing C Sharp\Part 29. Explicit interfaces implementation\obj\Debug\Explicit interfaces implementation.exe
+D:\Video\C#\Programing C Sharp\Part 29. Explicit interfaces implementation\obj\Debug\Explicit interfaces implementation.pdb
+E:\Video\C#\Programing C Sharp\Part 29. Explicit interfaces implementation\bin\Debug\Explicit interfaces implementation.exe.config
+E:\Video\C#\Programing C Sharp\Part 29. Explicit interfaces implementation\bin\Debug\Explicit interfaces implementation.exe
+E:\Video\C#\Programing C Sharp\Part 29. Explicit interfaces implementation\bin\Debug\Explicit interfaces implementation.pdb
+E:\Video\C#\Programing C Sharp\Part 29. Explicit interfaces implementation\obj\Debug\Explicit interfaces implementation.exe
+E:\Video\C#\Programing C Sharp\Part 29. Explicit interfaces implementation\obj\Debug\Explicit interfaces implementation.pdb

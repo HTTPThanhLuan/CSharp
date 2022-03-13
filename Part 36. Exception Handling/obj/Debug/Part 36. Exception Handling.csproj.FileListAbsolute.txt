@@ -1,0 +1,10 @@
+D:\Video\C#\Programing C Sharp\Part 36. Exception Handling\bin\Debug\Part_36.Exception_Handling.exe.config
+D:\Video\C#\Programing C Sharp\Part 36. Exception Handling\bin\Debug\Part_36.Exception_Handling.exe
+D:\Video\C#\Programing C Sharp\Part 36. Exception Handling\bin\Debug\Part_36.Exception_Handling.pdb
+D:\Video\C#\Programing C Sharp\Part 36. Exception Handling\obj\Debug\Part_36.Exception_Handling.exe
+D:\Video\C#\Programing C Sharp\Part 36. Exception Handling\obj\Debug\Part_36.Exception_Handling.pdb
+E:\Video\C#\Programing C Sharp\Part 36. Exception Handling\bin\Debug\Part_36.Exception_Handling.exe.config
+E:\Video\C#\Programing C Sharp\Part 36. Exception Handling\bin\Debug\Part_36.Exception_Handling.exe
+E:\Video\C#\Programing C Sharp\Part 36. Exception Handling\bin\Debug\Part_36.Exception_Handling.pdb
+E:\Video\C#\Programing C Sharp\Part 36. Exception Handling\obj\Debug\Part_36.Exception_Handling.exe
+E:\Video\C#\Programing C Sharp\Part 36. Exception Handling\obj\Debug\Part_36.Exception_Handling.pdb

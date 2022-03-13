@@ -1,0 +1,10 @@
+D:\Video\C#\Programing C Sharp\Anonymous Methods\bin\Debug\Anonymous Methods.exe.config
+D:\Video\C#\Programing C Sharp\Anonymous Methods\bin\Debug\Anonymous Methods.exe
+D:\Video\C#\Programing C Sharp\Anonymous Methods\bin\Debug\Anonymous Methods.pdb
+D:\Video\C#\Programing C Sharp\Anonymous Methods\obj\Debug\Anonymous Methods.exe
+D:\Video\C#\Programing C Sharp\Anonymous Methods\obj\Debug\Anonymous Methods.pdb
+E:\Video\C#\Programing C Sharp\Anonymous Methods\bin\Debug\Anonymous Methods.exe.config
+E:\Video\C#\Programing C Sharp\Anonymous Methods\bin\Debug\Anonymous Methods.exe
+E:\Video\C#\Programing C Sharp\Anonymous Methods\bin\Debug\Anonymous Methods.pdb
+E:\Video\C#\Programing C Sharp\Anonymous Methods\obj\Debug\Anonymous Methods.exe
+E:\Video\C#\Programing C Sharp\Anonymous Methods\obj\Debug\Anonymous Methods.pdb

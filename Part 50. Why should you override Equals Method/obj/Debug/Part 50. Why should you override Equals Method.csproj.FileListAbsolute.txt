@@ -1,0 +1,10 @@
+D:\Video\C#\Programing C Sharp\Part 50. Why should you override Equals Method\bin\Debug\Part_50.Why_should_you_override_Equals_Method.exe.config
+D:\Video\C#\Programing C Sharp\Part 50. Why should you override Equals Method\bin\Debug\Part_50.Why_should_you_override_Equals_Method.exe
+D:\Video\C#\Programing C Sharp\Part 50. Why should you override Equals Method\bin\Debug\Part_50.Why_should_you_override_Equals_Method.pdb
+D:\Video\C#\Programing C Sharp\Part 50. Why should you override Equals Method\obj\Debug\Part_50.Why_should_you_override_Equals_Method.exe
+D:\Video\C#\Programing C Sharp\Part 50. Why should you override Equals Method\obj\Debug\Part_50.Why_should_you_override_Equals_Method.pdb
+E:\Video\C#\Programing C Sharp\Part 50. Why should you override Equals Method\bin\Debug\Part_50.Why_should_you_override_Equals_Method.exe.config
+E:\Video\C#\Programing C Sharp\Part 50. Why should you override Equals Method\bin\Debug\Part_50.Why_should_you_override_Equals_Method.exe
+E:\Video\C#\Programing C Sharp\Part 50. Why should you override Equals Method\bin\Debug\Part_50.Why_should_you_override_Equals_Method.pdb
+E:\Video\C#\Programing C Sharp\Part 50. Why should you override Equals Method\obj\Debug\Part_50.Why_should_you_override_Equals_Method.exe
+E:\Video\C#\Programing C Sharp\Part 50. Why should you override Equals Method\obj\Debug\Part_50.Why_should_you_override_Equals_Method.pdb

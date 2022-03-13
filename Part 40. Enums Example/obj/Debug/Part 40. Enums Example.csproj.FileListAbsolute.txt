@@ -1,0 +1,10 @@
+D:\Video\C#\Programing C Sharp\Part 40. Enums Example\bin\Debug\Part_40.Enums_Example.exe.config
+D:\Video\C#\Programing C Sharp\Part 40. Enums Example\bin\Debug\Part_40.Enums_Example.exe
+D:\Video\C#\Programing C Sharp\Part 40. Enums Example\bin\Debug\Part_40.Enums_Example.pdb
+D:\Video\C#\Programing C Sharp\Part 40. Enums Example\obj\Debug\Part_40.Enums_Example.exe
+D:\Video\C#\Programing C Sharp\Part 40. Enums Example\obj\Debug\Part_40.Enums_Example.pdb
+E:\Video\C#\Programing C Sharp\Part 40. Enums Example\bin\Debug\Part_40.Enums_Example.exe.config
+E:\Video\C#\Programing C Sharp\Part 40. Enums Example\bin\Debug\Part_40.Enums_Example.exe
+E:\Video\C#\Programing C Sharp\Part 40. Enums Example\bin\Debug\Part_40.Enums_Example.pdb
+E:\Video\C#\Programing C Sharp\Part 40. Enums Example\obj\Debug\Part_40.Enums_Example.exe
+E:\Video\C#\Programing C Sharp\Part 40. Enums Example\obj\Debug\Part_40.Enums_Example.pdb

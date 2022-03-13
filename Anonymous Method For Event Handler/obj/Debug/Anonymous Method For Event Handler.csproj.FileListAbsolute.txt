@@ -1,0 +1,18 @@
+D:\Video\C#\Programing C Sharp\Anonymous Method For Event Handler\bin\Debug\Anonymous Method For Event Handler.exe.config
+D:\Video\C#\Programing C Sharp\Anonymous Method For Event Handler\bin\Debug\Anonymous Method For Event Handler.exe
+D:\Video\C#\Programing C Sharp\Anonymous Method For Event Handler\bin\Debug\Anonymous Method For Event Handler.pdb
+D:\Video\C#\Programing C Sharp\Anonymous Method For Event Handler\obj\Debug\Anonymous Method For Event Handler.csprojResolveAssemblyReference.cache
+D:\Video\C#\Programing C Sharp\Anonymous Method For Event Handler\obj\Debug\Anonymous_Method_For_Event_Handler.Form1.resources
+D:\Video\C#\Programing C Sharp\Anonymous Method For Event Handler\obj\Debug\Anonymous_Method_For_Event_Handler.Properties.Resources.resources
+D:\Video\C#\Programing C Sharp\Anonymous Method For Event Handler\obj\Debug\Anonymous Method For Event Handler.csproj.GenerateResource.Cache
+D:\Video\C#\Programing C Sharp\Anonymous Method For Event Handler\obj\Debug\Anonymous Method For Event Handler.exe
+D:\Video\C#\Programing C Sharp\Anonymous Method For Event Handler\obj\Debug\Anonymous Method For Event Handler.pdb
+E:\Video\C#\Programing C Sharp\Anonymous Method For Event Handler\bin\Debug\Anonymous Method For Event Handler.exe.config
+E:\Video\C#\Programing C Sharp\Anonymous Method For Event Handler\bin\Debug\Anonymous Method For Event Handler.exe
+E:\Video\C#\Programing C Sharp\Anonymous Method For Event Handler\bin\Debug\Anonymous Method For Event Handler.pdb
+E:\Video\C#\Programing C Sharp\Anonymous Method For Event Handler\obj\Debug\Anonymous Method For Event Handler.csprojResolveAssemblyReference.cache
+E:\Video\C#\Programing C Sharp\Anonymous Method For Event Handler\obj\Debug\Anonymous_Method_For_Event_Handler.Form1.resources
+E:\Video\C#\Programing C Sharp\Anonymous Method For Event Handler\obj\Debug\Anonymous_Method_For_Event_Handler.Properties.Resources.resources
+E:\Video\C#\Programing C Sharp\Anonymous Method For Event Handler\obj\Debug\Anonymous Method For Event Handler.csproj.GenerateResource.Cache
+E:\Video\C#\Programing C Sharp\Anonymous Method For Event Handler\obj\Debug\Anonymous Method For Event Handler.exe
+E:\Video\C#\Programing C Sharp\Anonymous Method For Event Handler\obj\Debug\Anonymous Method For Event Handler.pdb

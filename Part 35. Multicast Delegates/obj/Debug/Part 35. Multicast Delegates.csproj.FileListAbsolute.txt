@@ -1,0 +1,10 @@
+D:\Video\C#\Programing C Sharp\Part 35. Multicast Delegates\bin\Debug\Part_35.Multicast_Delegates.exe.config
+D:\Video\C#\Programing C Sharp\Part 35. Multicast Delegates\bin\Debug\Part_35.Multicast_Delegates.exe
+D:\Video\C#\Programing C Sharp\Part 35. Multicast Delegates\bin\Debug\Part_35.Multicast_Delegates.pdb
+D:\Video\C#\Programing C Sharp\Part 35. Multicast Delegates\obj\Debug\Part_35.Multicast_Delegates.exe
+D:\Video\C#\Programing C Sharp\Part 35. Multicast Delegates\obj\Debug\Part_35.Multicast_Delegates.pdb
+E:\Video\C#\Programing C Sharp\Part 35. Multicast Delegates\bin\Debug\Part_35.Multicast_Delegates.exe.config
+E:\Video\C#\Programing C Sharp\Part 35. Multicast Delegates\bin\Debug\Part_35.Multicast_Delegates.exe
+E:\Video\C#\Programing C Sharp\Part 35. Multicast Delegates\bin\Debug\Part_35.Multicast_Delegates.pdb
+E:\Video\C#\Programing C Sharp\Part 35. Multicast Delegates\obj\Debug\Part_35.Multicast_Delegates.exe
+E:\Video\C#\Programing C Sharp\Part 35. Multicast Delegates\obj\Debug\Part_35.Multicast_Delegates.pdb

@@ -1,0 +1,12 @@
+D:\Video\C#\Programing C Sharp\Func delegate\bin\Debug\Func delegate.exe.config
+D:\Video\C#\Programing C Sharp\Func delegate\bin\Debug\Func delegate.exe
+D:\Video\C#\Programing C Sharp\Func delegate\bin\Debug\Func delegate.pdb
+D:\Video\C#\Programing C Sharp\Func delegate\obj\Debug\Func delegate.csprojResolveAssemblyReference.cache
+D:\Video\C#\Programing C Sharp\Func delegate\obj\Debug\Func delegate.exe
+D:\Video\C#\Programing C Sharp\Func delegate\obj\Debug\Func delegate.pdb
+E:\Video\C#\Programing C Sharp\Func delegate\bin\Debug\Func delegate.exe.config
+E:\Video\C#\Programing C Sharp\Func delegate\bin\Debug\Func delegate.exe
+E:\Video\C#\Programing C Sharp\Func delegate\bin\Debug\Func delegate.pdb
+E:\Video\C#\Programing C Sharp\Func delegate\obj\Debug\Func delegate.csprojResolveAssemblyReference.cache
+E:\Video\C#\Programing C Sharp\Func delegate\obj\Debug\Func delegate.exe
+E:\Video\C#\Programing C Sharp\Func delegate\obj\Debug\Func delegate.pdb

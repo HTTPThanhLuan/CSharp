@@ -1,0 +1,10 @@
+D:\Video\C#\Programing C Sharp\Part 44. Attributes\bin\Debug\Part_44.Attributes.exe.config
+D:\Video\C#\Programing C Sharp\Part 44. Attributes\bin\Debug\Part_44.Attributes.exe
+D:\Video\C#\Programing C Sharp\Part 44. Attributes\bin\Debug\Part_44.Attributes.pdb
+D:\Video\C#\Programing C Sharp\Part 44. Attributes\obj\Debug\Part_44.Attributes.exe
+D:\Video\C#\Programing C Sharp\Part 44. Attributes\obj\Debug\Part_44.Attributes.pdb
+E:\Video\C#\Programing C Sharp\Part 44. Attributes\bin\Debug\Part_44.Attributes.exe.config
+E:\Video\C#\Programing C Sharp\Part 44. Attributes\bin\Debug\Part_44.Attributes.exe
+E:\Video\C#\Programing C Sharp\Part 44. Attributes\bin\Debug\Part_44.Attributes.pdb
+E:\Video\C#\Programing C Sharp\Part 44. Attributes\obj\Debug\Part_44.Attributes.exe
+E:\Video\C#\Programing C Sharp\Part 44. Attributes\obj\Debug\Part_44.Attributes.pdb

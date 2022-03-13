@@ -1,0 +1,12 @@
+D:\Video\C#\Programing C Sharp\Part 26. Properties\bin\Debug\Part_26.Properties.exe.config
+D:\Video\C#\Programing C Sharp\Part 26. Properties\bin\Debug\Part_26.Properties.exe
+D:\Video\C#\Programing C Sharp\Part 26. Properties\bin\Debug\Part_26.Properties.pdb
+D:\Video\C#\Programing C Sharp\Part 26. Properties\obj\Debug\Part_26.Properties.exe
+D:\Video\C#\Programing C Sharp\Part 26. Properties\obj\Debug\Part_26.Properties.pdb
+D:\Video\C#\Programing C Sharp\Part 26. Properties\obj\Debug\Part 26. Properties.csprojResolveAssemblyReference.cache
+E:\Video\C#\Programing C Sharp\Part 26. Properties\bin\Debug\Part_26.Properties.exe.config
+E:\Video\C#\Programing C Sharp\Part 26. Properties\bin\Debug\Part_26.Properties.exe
+E:\Video\C#\Programing C Sharp\Part 26. Properties\bin\Debug\Part_26.Properties.pdb
+E:\Video\C#\Programing C Sharp\Part 26. Properties\obj\Debug\Part 26. Properties.csprojResolveAssemblyReference.cache
+E:\Video\C#\Programing C Sharp\Part 26. Properties\obj\Debug\Part_26.Properties.exe
+E:\Video\C#\Programing C Sharp\Part 26. Properties\obj\Debug\Part_26.Properties.pdb

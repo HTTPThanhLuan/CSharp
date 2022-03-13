@@ -1,0 +1,15 @@
+D:\Video\C#\Programing C Sharp\Part 28. Structs\bin\Debug\Part_28.Structs.exe.config
+D:\Video\C#\Programing C Sharp\Part 28. Structs\bin\Debug\Part_28.Structs.exe
+D:\Video\C#\Programing C Sharp\Part 28. Structs\bin\Debug\Part_28.Structs.pdb
+D:\Video\C#\Programing C Sharp\Part 28. Structs\obj\Debug\Part_28.Structs.exe
+D:\Video\C#\Programing C Sharp\Part 28. Structs\obj\Debug\Part_28.Structs.pdb
+D:\Video\C#\Programing C Sharp\Part 27. Structs\bin\Debug\Part_28.Structs.exe.config
+D:\Video\C#\Programing C Sharp\Part 27. Structs\bin\Debug\Part_28.Structs.exe
+D:\Video\C#\Programing C Sharp\Part 27. Structs\bin\Debug\Part_28.Structs.pdb
+D:\Video\C#\Programing C Sharp\Part 27. Structs\obj\Debug\Part_28.Structs.exe
+D:\Video\C#\Programing C Sharp\Part 27. Structs\obj\Debug\Part_28.Structs.pdb
+E:\Video\C#\Programing C Sharp\Part 27. Structs\bin\Debug\Part_28.Structs.exe.config
+E:\Video\C#\Programing C Sharp\Part 27. Structs\bin\Debug\Part_28.Structs.exe
+E:\Video\C#\Programing C Sharp\Part 27. Structs\bin\Debug\Part_28.Structs.pdb
+E:\Video\C#\Programing C Sharp\Part 27. Structs\obj\Debug\Part_28.Structs.exe
+E:\Video\C#\Programing C Sharp\Part 27. Structs\obj\Debug\Part_28.Structs.pdb

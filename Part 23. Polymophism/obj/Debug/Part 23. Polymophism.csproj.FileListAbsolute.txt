@@ -1,0 +1,12 @@
+D:\Video\C#\Programing C Sharp\Part 23. Polymophism\bin\Debug\Part_23.Polymophism.exe.config
+D:\Video\C#\Programing C Sharp\Part 23. Polymophism\bin\Debug\Part_23.Polymophism.exe
+D:\Video\C#\Programing C Sharp\Part 23. Polymophism\bin\Debug\Part_23.Polymophism.pdb
+D:\Video\C#\Programing C Sharp\Part 23. Polymophism\obj\Debug\Part_23.Polymophism.exe
+D:\Video\C#\Programing C Sharp\Part 23. Polymophism\obj\Debug\Part_23.Polymophism.pdb
+D:\Video\C#\Programing C Sharp\Part 23. Polymophism\obj\Debug\Part 23. Polymophism.csprojResolveAssemblyReference.cache
+E:\Video\C#\Programing C Sharp\Part 23. Polymophism\bin\Debug\Part_23.Polymophism.exe.config
+E:\Video\C#\Programing C Sharp\Part 23. Polymophism\bin\Debug\Part_23.Polymophism.exe
+E:\Video\C#\Programing C Sharp\Part 23. Polymophism\bin\Debug\Part_23.Polymophism.pdb
+E:\Video\C#\Programing C Sharp\Part 23. Polymophism\obj\Debug\Part 23. Polymophism.csprojResolveAssemblyReference.cache
+E:\Video\C#\Programing C Sharp\Part 23. Polymophism\obj\Debug\Part_23.Polymophism.exe
+E:\Video\C#\Programing C Sharp\Part 23. Polymophism\obj\Debug\Part_23.Polymophism.pdb

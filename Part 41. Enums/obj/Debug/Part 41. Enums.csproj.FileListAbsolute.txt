@@ -1,0 +1,12 @@
+D:\Video\C#\Programing C Sharp\Part 41. Enums\bin\Debug\Part_41.Enums.exe.config
+D:\Video\C#\Programing C Sharp\Part 41. Enums\bin\Debug\Part_41.Enums.exe
+D:\Video\C#\Programing C Sharp\Part 41. Enums\bin\Debug\Part_41.Enums.pdb
+D:\Video\C#\Programing C Sharp\Part 41. Enums\obj\Debug\Part_41.Enums.exe
+D:\Video\C#\Programing C Sharp\Part 41. Enums\obj\Debug\Part_41.Enums.pdb
+D:\Video\C#\Programing C Sharp\Part 41. Enums\obj\Debug\Part 41. Enums.csprojResolveAssemblyReference.cache
+E:\Video\C#\Programing C Sharp\Part 41. Enums\bin\Debug\Part_41.Enums.exe.config
+E:\Video\C#\Programing C Sharp\Part 41. Enums\obj\Debug\Part_41.Enums.exe
+E:\Video\C#\Programing C Sharp\Part 41. Enums\obj\Debug\Part_41.Enums.pdb
+E:\Video\C#\Programing C Sharp\Part 41. Enums\bin\Debug\Part_41.Enums.exe
+E:\Video\C#\Programing C Sharp\Part 41. Enums\bin\Debug\Part_41.Enums.pdb
+E:\Video\C#\Programing C Sharp\Part 41. Enums\obj\Debug\Part 41. Enums.csprojResolveAssemblyReference.cache

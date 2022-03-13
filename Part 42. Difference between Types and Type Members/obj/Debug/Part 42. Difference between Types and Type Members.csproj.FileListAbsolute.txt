@@ -1,0 +1,10 @@
+D:\Video\C#\Programing C Sharp\Part 42. Difference between Types and Type Members\bin\Debug\Part_42.Difference_between_Types_and_Type_Members.exe.config
+D:\Video\C#\Programing C Sharp\Part 42. Difference between Types and Type Members\bin\Debug\Part_42.Difference_between_Types_and_Type_Members.exe
+D:\Video\C#\Programing C Sharp\Part 42. Difference between Types and Type Members\bin\Debug\Part_42.Difference_between_Types_and_Type_Members.pdb
+D:\Video\C#\Programing C Sharp\Part 42. Difference between Types and Type Members\obj\Debug\Part_42.Difference_between_Types_and_Type_Members.exe
+D:\Video\C#\Programing C Sharp\Part 42. Difference between Types and Type Members\obj\Debug\Part_42.Difference_between_Types_and_Type_Members.pdb
+E:\Video\C#\Programing C Sharp\Part 42. Difference between Types and Type Members\bin\Debug\Part_42.Difference_between_Types_and_Type_Members.exe.config
+E:\Video\C#\Programing C Sharp\Part 42. Difference between Types and Type Members\bin\Debug\Part_42.Difference_between_Types_and_Type_Members.exe
+E:\Video\C#\Programing C Sharp\Part 42. Difference between Types and Type Members\bin\Debug\Part_42.Difference_between_Types_and_Type_Members.pdb
+E:\Video\C#\Programing C Sharp\Part 42. Difference between Types and Type Members\obj\Debug\Part_42.Difference_between_Types_and_Type_Members.exe
+E:\Video\C#\Programing C Sharp\Part 42. Difference between Types and Type Members\obj\Debug\Part_42.Difference_between_Types_and_Type_Members.pdb

@@ -1,0 +1,12 @@
+D:\Video\C#\Programing C Sharp\Part 39. Why Enums\bin\Debug\Part_39.Why_Enums.exe.config
+D:\Video\C#\Programing C Sharp\Part 39. Why Enums\bin\Debug\Part_39.Why_Enums.exe
+D:\Video\C#\Programing C Sharp\Part 39. Why Enums\bin\Debug\Part_39.Why_Enums.pdb
+D:\Video\C#\Programing C Sharp\Part 39. Why Enums\obj\Debug\Part_39.Why_Enums.exe
+D:\Video\C#\Programing C Sharp\Part 39. Why Enums\obj\Debug\Part_39.Why_Enums.pdb
+D:\Video\C#\Programing C Sharp\Part 39. Why Enums\obj\Debug\Part 39. Why Enums.csprojResolveAssemblyReference.cache
+E:\Video\C#\Programing C Sharp\Part 39. Why Enums\bin\Debug\Part_39.Why_Enums.exe.config
+E:\Video\C#\Programing C Sharp\Part 39. Why Enums\bin\Debug\Part_39.Why_Enums.exe
+E:\Video\C#\Programing C Sharp\Part 39. Why Enums\bin\Debug\Part_39.Why_Enums.pdb
+E:\Video\C#\Programing C Sharp\Part 39. Why Enums\obj\Debug\Part 39. Why Enums.csprojResolveAssemblyReference.cache
+E:\Video\C#\Programing C Sharp\Part 39. Why Enums\obj\Debug\Part_39.Why_Enums.exe
+E:\Video\C#\Programing C Sharp\Part 39. Why Enums\obj\Debug\Part_39.Why_Enums.pdb

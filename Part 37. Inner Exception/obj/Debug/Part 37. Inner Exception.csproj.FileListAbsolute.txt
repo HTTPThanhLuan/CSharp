@@ -1,0 +1,10 @@
+D:\Video\C#\Programing C Sharp\Part 37. Inner Exception\bin\Debug\Part_37.Inner_Exception.exe.config
+D:\Video\C#\Programing C Sharp\Part 37. Inner Exception\bin\Debug\Part_37.Inner_Exception.exe
+D:\Video\C#\Programing C Sharp\Part 37. Inner Exception\bin\Debug\Part_37.Inner_Exception.pdb
+D:\Video\C#\Programing C Sharp\Part 37. Inner Exception\obj\Debug\Part_37.Inner_Exception.exe
+D:\Video\C#\Programing C Sharp\Part 37. Inner Exception\obj\Debug\Part_37.Inner_Exception.pdb
+E:\Video\C#\Programing C Sharp\Part 37. Inner Exception\bin\Debug\Part_37.Inner_Exception.exe.config
+E:\Video\C#\Programing C Sharp\Part 37. Inner Exception\bin\Debug\Part_37.Inner_Exception.exe
+E:\Video\C#\Programing C Sharp\Part 37. Inner Exception\bin\Debug\Part_37.Inner_Exception.pdb
+E:\Video\C#\Programing C Sharp\Part 37. Inner Exception\obj\Debug\Part_37.Inner_Exception.exe
+E:\Video\C#\Programing C Sharp\Part 37. Inner Exception\obj\Debug\Part_37.Inner_Exception.pdb

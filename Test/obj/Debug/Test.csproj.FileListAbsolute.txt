@@ -1,0 +1,18 @@
+E:\Video\C#\Programing C Sharp\Test\bin\Debug\Test.exe.config
+E:\Video\C#\Programing C Sharp\Test\bin\Debug\Test.exe
+E:\Video\C#\Programing C Sharp\Test\bin\Debug\Test.pdb
+E:\Video\C#\Programing C Sharp\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\Video\C#\Programing C Sharp\Test\obj\Debug\Test.exe
+E:\Video\C#\Programing C Sharp\Test\obj\Debug\Test.pdb
+E:\Study\Book\Programming\Programing C Sharp\Test\bin\Debug\Test.exe.config
+E:\Study\Book\Programming\Programing C Sharp\Test\obj\Debug\Test.exe
+E:\Study\Book\Programming\Programing C Sharp\Test\obj\Debug\Test.pdb
+E:\Study\Book\Programming\Programing C Sharp\Test\bin\Debug\Test.exe
+E:\Study\Book\Programming\Programing C Sharp\Test\bin\Debug\Test.pdb
+E:\Study\Book\Programming\Programing C Sharp\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\Study\Book\Programming\C Sharp\Programing C Sharp\Test\bin\Debug\Test.exe.config
+E:\Study\Book\Programming\C Sharp\Programing C Sharp\Test\obj\Debug\Test.exe
+E:\Study\Book\Programming\C Sharp\Programing C Sharp\Test\obj\Debug\Test.pdb
+E:\Study\Book\Programming\C Sharp\Programing C Sharp\Test\bin\Debug\Test.exe
+E:\Study\Book\Programming\C Sharp\Programing C Sharp\Test\bin\Debug\Test.pdb
+E:\Study\Book\Programming\C Sharp\Programing C Sharp\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache

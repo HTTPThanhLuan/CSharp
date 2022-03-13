@@ -1,0 +1,10 @@
+D:\Video\C#\Programing C Sharp\Part 32. Multiple class inheritance using interfaces\bin\Debug\Part_32.Multiple_class_inheritance_using_interfaces.exe.config
+D:\Video\C#\Programing C Sharp\Part 32. Multiple class inheritance using interfaces\bin\Debug\Part_32.Multiple_class_inheritance_using_interfaces.exe
+D:\Video\C#\Programing C Sharp\Part 32. Multiple class inheritance using interfaces\bin\Debug\Part_32.Multiple_class_inheritance_using_interfaces.pdb
+D:\Video\C#\Programing C Sharp\Part 32. Multiple class inheritance using interfaces\obj\Debug\Part_32.Multiple_class_inheritance_using_interfaces.exe
+D:\Video\C#\Programing C Sharp\Part 32. Multiple class inheritance using interfaces\obj\Debug\Part_32.Multiple_class_inheritance_using_interfaces.pdb
+E:\Video\C#\Programing C Sharp\Part 32. Multiple class inheritance using interfaces\bin\Debug\Part_32.Multiple_class_inheritance_using_interfaces.exe.config
+E:\Video\C#\Programing C Sharp\Part 32. Multiple class inheritance using interfaces\bin\Debug\Part_32.Multiple_class_inheritance_using_interfaces.exe
+E:\Video\C#\Programing C Sharp\Part 32. Multiple class inheritance using interfaces\bin\Debug\Part_32.Multiple_class_inheritance_using_interfaces.pdb
+E:\Video\C#\Programing C Sharp\Part 32. Multiple class inheritance using interfaces\obj\Debug\Part_32.Multiple_class_inheritance_using_interfaces.exe
+E:\Video\C#\Programing C Sharp\Part 32. Multiple class inheritance using interfaces\obj\Debug\Part_32.Multiple_class_inheritance_using_interfaces.pdb

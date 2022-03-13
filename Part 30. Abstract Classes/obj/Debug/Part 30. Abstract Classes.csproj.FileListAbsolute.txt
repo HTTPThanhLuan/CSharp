@@ -1,0 +1,13 @@
+D:\Video\C#\Programing C Sharp\Abstract Classes\bin\Debug\Abstract Classes.exe.config
+D:\Video\C#\Programing C Sharp\Part 30. Abstract Classes\bin\Debug\Abstract Classes.exe.config
+D:\Video\C#\Programing C Sharp\Part 30. Abstract Classes\bin\Debug\Abstract Classes.exe
+D:\Video\C#\Programing C Sharp\Part 30. Abstract Classes\bin\Debug\Abstract Classes.pdb
+D:\Video\C#\Programing C Sharp\Part 30. Abstract Classes\obj\Debug\Abstract Classes.exe
+D:\Video\C#\Programing C Sharp\Part 30. Abstract Classes\obj\Debug\Abstract Classes.pdb
+D:\Video\C#\Programing C Sharp\Part 30. Abstract Classes\obj\Debug\Part 30. Abstract Classes.csprojResolveAssemblyReference.cache
+E:\Video\C#\Programing C Sharp\Part 30. Abstract Classes\bin\Debug\Abstract Classes.exe.config
+E:\Video\C#\Programing C Sharp\Part 30. Abstract Classes\bin\Debug\Abstract Classes.exe
+E:\Video\C#\Programing C Sharp\Part 30. Abstract Classes\bin\Debug\Abstract Classes.pdb
+E:\Video\C#\Programing C Sharp\Part 30. Abstract Classes\obj\Debug\Part 30. Abstract Classes.csprojResolveAssemblyReference.cache
+E:\Video\C#\Programing C Sharp\Part 30. Abstract Classes\obj\Debug\Abstract Classes.exe
+E:\Video\C#\Programing C Sharp\Part 30. Abstract Classes\obj\Debug\Abstract Classes.pdb

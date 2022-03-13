@@ -1,0 +1,6 @@
+D:\Study\Programming\C Sharp\Programing C Sharp\6.0-Features-illustrated\bin\Debug\6.0-Features-illustrated.exe.config
+D:\Study\Programming\C Sharp\Programing C Sharp\6.0-Features-illustrated\bin\Debug\6.0-Features-illustrated.exe
+D:\Study\Programming\C Sharp\Programing C Sharp\6.0-Features-illustrated\bin\Debug\6.0-Features-illustrated.pdb
+D:\Study\Programming\C Sharp\Programing C Sharp\6.0-Features-illustrated\obj\Debug\6.0-Features-illustrated.csproj.CoreCompileInputs.cache
+D:\Study\Programming\C Sharp\Programing C Sharp\6.0-Features-illustrated\obj\Debug\6.0-Features-illustrated.exe
+D:\Study\Programming\C Sharp\Programing C Sharp\6.0-Features-illustrated\obj\Debug\6.0-Features-illustrated.pdb
